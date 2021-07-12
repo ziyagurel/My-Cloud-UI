@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+  
+    /** background image */
+    background-image: url("./images/home-page.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #00b7ff;
+}
